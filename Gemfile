@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails',        '4.2.11.1'
 gem 'sass-rails',   '5.0.2'
-gem 'uglifier',     '2.5.3'
+gem 'uglifier',     '2.7.2'
 gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '4.0.3'
 gem 'turbolinks',   '5.2.1'
